@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 1014b168-db4b-4592-a351-fd08f72ab424
+      url: 'https://calvin.quarto.pub/dataviz'

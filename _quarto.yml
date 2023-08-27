@@ -1,0 +1,53 @@
+project:
+  type: website
+
+website:
+  favicon: images/class-logo.jpg
+  title: "Data Viz @ Berkeley"
+  page-navigation: true
+  description: "Data Viz Homepage, Fall 2023" 
+  site-url: calvin.quarto.pub/dataviz
+  sidebar:
+    background: "white"
+    foreground: dark
+    search: false
+    logo: images/class-logo.jpg
+    logo-alt: "logo"
+    style: docked
+    collapse-level: 1
+    contents:
+      - section: "Class Info"
+        contents:
+        - href: index.qmd
+          text: "Home"
+        - href: info/syllabus.qmd
+          text: "Syllabus"
+        - href: info/rstudio.qmd
+          text: "R & Rstudio"
+      - section: "Homework & Projects"
+        contents:
+        - href: "https://youtu.be/dQw4w9WgXcQ?feature=shared"
+          text: "Comming soon!"
+        #- href: homework/hw1
+        #  text: "HW1"
+        #- href: homework/final-project
+        #  text: "Final Project"
+      - section: "Slides"
+        contents:
+        - href: "https://youtu.be/oCEZC9w5cMc?si=SOuC2KhjIuHJAhGV"
+          text: "Comming soon!"
+        # - href: slides/sept11
+        #   text: "09/11/23"
+    
+format:
+  html:
+    theme: cosmo
+    linkcolor: "blue"
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    mainfont: "Roboto"
+execute:
+  freeze: auto
+
+editor: visual
