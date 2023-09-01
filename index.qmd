@@ -17,7 +17,7 @@ linkcolor: "#4792e2"
 
 library(tidyverse) 
 library(googlesheets4)
-library(gt) #make sure to install this package
+library(gt)
 
 schedule <- read_sheet("https://docs.google.com/spreadsheets/d/1zyHtfnb0YAmzFN2vhIBSSlrmCsjZFPYAOSaKZL_VKM4/edit#gid=0")
 ```

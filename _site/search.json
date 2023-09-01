@@ -18,7 +18,7 @@
     "href": "info/rstudio.html",
     "title": "R and RStudio",
     "section": "",
-    "text": "In the realm of data visualization, there are a ton of options out there in terms of coding languages. Fortunately, the foundational principles of effective visualization remain consistent for all of them. Consequently, our class will center its focus on R, and utilize RStudio as our chosen IDE.\nIf you don’t already have R and RStudio, you can click here to find download links for both.\nIf you’re having trouble getting set up, feel free to email your instructors about the issue."
+    "text": "In data visualization, there are many options out there in terms of coding languages. Fortunately, the foundational principles of effective visualization remain consistent for all of them. Subsequently, our class will center its focus on R, and utilize RStudio as our chosen IDE.\nIf you don’t already have R and RStudio, you can click here to find download links for both.\nIf you’re having trouble getting set up, feel free to email your instructors about the issue."
   },
   {
     "objectID": "info/syllabus.html",
@@ -67,7 +67,7 @@
     "href": "info/syllabus.html#grading-structure",
     "title": "Syllabus",
     "section": "Grading Structure",
-    "text": "Grading Structure\nStudents will be informed on their academic progress on gradescope. Final grades in the course are based on the following system:\nAssignments 30%\n\nHW1 4%\nHW2 4%\nHW3 4%\nHW4 4%\nFinal Project 14%\n\nReflections 10%\n\nMidterm Reflection 5%\nFinal Reflection 5%\n\nAttendance 50%\nQuizzes 10%\nNotice: There will be no extra credit assignments. Final grades will not be rounded to the nearest integer (i.e. 69.999% does not constitute a passing grade)."
+    "text": "Grading Structure\nStudents will be informed on their academic progress on gradescope. Final grades in the course are based on the following system:\nAssignments 30%\n\nHW1 4%\nHW2 4%\nHW3 4%\nHW4 4%\nFinal Project 14%\n\nReflections 10%\n\nMidterm Reflection 5%\nFinal Reflection 5%\n\nAttendance 50%\nQuizzes 10%\nNotice: There will be no extra credit assignments. Final grades will be rounded to the tens place (e.g. 78.95% will be rounded to 79%)"
   },
   {
     "objectID": "info/syllabus.html#assignments",
