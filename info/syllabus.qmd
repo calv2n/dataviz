@@ -10,20 +10,30 @@ This is an introductory course to the principles of data visualization and their
 ## Learning Outcomes
 
 At the end of the course, students will be able to:
+
 - Explain the importance/need of visualizing data
+
 - Describe the framework of the grammar of graphics for creating plots
+
 - Use functions from ggplot2 and other packages for making graphics in R
+
 - List five or more of the analytical patterns/tasks (proposed by Stephen Few) for choosing the right graphic
+
 - Specify colors through the use of a color model, and its hexadecimal syntax
+
 - Demonstrate an adequate encoding of data with color
+
 - Recognize color schemes when inspecting a graphic
+
 - Assess the effectiveness of a graphic intended for reporting/communicating purposes
+
 - Apply and/or suggest changes that increase the data-to-ink ratio of a graphic
+
 - Produce animated charts as well as graphics with interactive element
 
-## Prerequisites:
+## Pre-requisites:
 
-Because our main computational tool is R (and RStudio), it is desirable to have taken a course in which you got an introduction to R (e.g. STAT 20, 33A, 33B, 133, or PB HLTH 142). It is also nice to have some previous experience analyzing data. Being concurrently enrolled in these classes is also acceptable.
+Because our main computational tool is R (and RStudio), it is desirable to have taken or be currently enrolled in a course in which you got an introduction to R (e.g. STAT 20, 33A, 33B, 133, or PB HLTH 142). It is also nice to have some previous experience analyzing data.
 
 ## Methods of Instruction
 
@@ -37,23 +47,31 @@ The following books are ***not*** required, but will be referenced throughout th
 
 - <a href="https://socviz.co/" target="_blank">
 Data Visualization
-</a> by Kieran Healy
+</a> by Kieran Healy.
+
 - <a href="https://r.geocompx.org/" target="_blank">
 Geocomputation with R
 </a> by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow.
+
 - <a href="https://www.amazon.com/Now-You-See-Visualization-Quantitative/dp/0970601980" target="_blank">
 Now You See It: Simple Visualization Techniques for Quantitative Analysis
-</a> by Stephen Few
+</a> by Stephen Few.
+
 - <a href="https://www.amazon.com/Effective-Data-Visualization-Right-Chart/dp/1544350880" target="_blank">
 Effective Data Visualization (2nd edition): The Right Chart for the Right Data
-</a> by Stephanie Evergreen
+</a> by Stephanie Evergreen.
+
+- <a href="https://r4ds.had.co.nz/" target="_blank">
+R for Data Science
+</a> by Hadley Wickham and Garrett Grolemund.
+
 
 ## Grading Structure
 
 Students will be informed on their academic progress on gradescope.
 Final grades in the course are based on the following system:
 
-**Assignments 30%**
+**Assignments 25%**
 
 - HW1 4%
 
@@ -63,20 +81,19 @@ Final grades in the course are based on the following system:
 
 - HW4 4%
 
-- Final Project 14%
+- Final Project 9%
 
 
-**Reflections 10%**
+**Reflections 15%**
 
-- Midterm Reflection 5%
+- Midterm Reflection 7%
 
-- Final Reflection 5%
+- Final Reflection 8%
 
 **Attendance 50%**
 
 **Quizzes 10%**
 
-**Notice:** There will be no extra credit assignments. Final grades will be rounded to the tens place (e.g. 78.95% will be rounded to 79%)
 
 ## Assignments
 

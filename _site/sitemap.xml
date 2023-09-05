@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://calvin.quarto.pub/dataviz/about.html</loc>
-    <lastmod>2023-08-28T00:03:01.342Z</lastmod>
+    <loc>https://calvin.quarto.pub/dataviz/info/syllabus.html</loc>
+    <lastmod>2023-09-02T23:22:19.095Z</lastmod>
   </url>
   <url>
     <loc>https://calvin.quarto.pub/dataviz/index.html</loc>
-    <lastmod>2023-08-28T00:03:16.250Z</lastmod>
+    <lastmod>2023-09-02T23:22:16.802Z</lastmod>
+  </url>
+  <url>
+    <loc>https://calvin.quarto.pub/dataviz/about.html</loc>
+    <lastmod>2023-09-02T23:22:13.489Z</lastmod>
   </url>
   <url>
     <loc>https://calvin.quarto.pub/dataviz/info/rstudio.html</loc>
-    <lastmod>2023-08-28T00:03:19.557Z</lastmod>
+    <lastmod>2023-09-02T23:22:18.184Z</lastmod>
   </url>
   <url>
-    <loc>https://calvin.quarto.pub/dataviz/info/syllabus.html</loc>
-    <lastmod>2023-08-28T00:03:21.525Z</lastmod>
+    <loc>calvin.quarto.pub/dataviz/info/syllabus.html</loc>
+    <lastmod>2023-09-05T23:29:35.227Z</lastmod>
+  </url>
+  <url>
+    <loc>calvin.quarto.pub/dataviz/index.html</loc>
+    <lastmod>2023-09-05T23:46:03.532Z</lastmod>
   </url>
 </urlset>

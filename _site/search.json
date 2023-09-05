@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "STAT 198: Intro to Data Visualization",
-    "section": "",
-    "text": "Tentative Class Calendar\n\n\n\n\n\n\n  \n    \n    \n    \n    \n    \n  \n  \n    \n    \n      Week\n      Date\n      Content\n      Activity\n      Due\n    \n  \n  \n    1\nMon, Sep 11\nWelcome! / Introduction\n\nInstall R & RStudio\n\n\n    \nWed, Sep 13\nGrammar of Graphics I\n\nHW1 assigned\n\n\n    2\nMon, Sep 18\nGrammar of Graphics II\n\nKahoot!\n\n\n    \nWed, Sep 20\nData Wrangling Review\n\nClass QMD #1\n\n\n    3\nMon, Sep 25\nUnivariate Plots\n\nHW2 assigned\n\nHW1 due before class\n\n    \nWed, Sep 27\nBivariate Plots\n\nClass QMD #2\n\n\n    4\nMon, Oct 2\n3+ Variable Plots\n\n\n\n    \nWed, Oct 4\nChoosing a Graphic: Stephen Few\n\nClass QMD #3\n\n\n    5\nMon, Oct 9\nColor Models & Spaces\n\nHW3 assigned\n\nHW2 due before class\n\n    \nWed, Oct 11\nColor Wheel, Schemes, & Palettes\n\nClass QMD #4\n\n\n    6\nMon, Oct 16\nData-ink Ratio\n\nQuiz 1 Assigned\n\nQuiz 1 Due @ 11:59\n\n    \nWed, Oct 18\nAxis, Annotation, & Themes\n\nClass QMD #5\n\nReflection #1 due on sunday\n\n    7\nMon, Oct 23\nDeceptive Graphs\n\nKahoot!\n\nHW3 due before class\n\n    \nWed, Oct 25\nIntro to Interactivity & Animation (ggplotly + gganimate)\n\nClass QMD #6\n\n\n    8\nMon, Oct 30\nFundamentals of Maps\n\n\n\n    \nWed, Nov 1\nInteractive Maps\n\n\n\n    9\nMon, Nov 6\nShiny I\n\nClass RShiny File\n\n\n    \nWed, Nov 8\nShiny II\n\nQuiz 2 Assigned\n\nQuiz 2 Due @ 11:59\n\n    10\nMon, Nov 13\nIntro to Final Project\n\nFinal Project Assigned\n\nHW4 due before class\n\n    \nWed, Nov 15\nExporting Image Files & More\n\nClass QMD #7\n\n\n    11\nMon, Nov 20\nFinal Project Presentations I\n\n🎊 Presentations!\n\nFinal Project Due before class\n\n    \nWed, Nov 22\n🦃 Academic Holiday! 🦃\n\n\n\n    12\nMon, Nov 27\nFinal Project Presentations II\n\n🎊 Presentations!\n\n\n    \nWed, Nov 29\nFinal Project Presentations III\n\n🎊 Presentations!\n\n\n    13\nMon, Dec 4\nRRR Week\n\n\nFinal Reflection due Fri, 08 Dec\n\n    14\nMon, Dec 11\nFinals Week"
-  },
-  {
-    "objectID": "info/rstudio.html",
-    "href": "info/rstudio.html",
-    "title": "R and RStudio",
-    "section": "",
-    "text": "In data visualization, there are many options out there in terms of coding languages. Fortunately, the foundational principles of effective visualization remain consistent for all of them. Subsequently, our class will center its focus on R, and utilize RStudio as our chosen IDE.\nIf you don’t already have R and RStudio, you can click here to find download links for both.\nIf you’re having trouble getting set up, feel free to email your instructors about the issue."
-  },
-  {
     "objectID": "info/syllabus.html",
     "href": "info/syllabus.html",
     "title": "Syllabus",
@@ -39,14 +18,14 @@
     "href": "info/syllabus.html#learning-outcomes",
     "title": "Syllabus",
     "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nAt the end of the course, students will be able to: - Explain the importance/need of visualizing data - Describe the framework of the grammar of graphics for creating plots - Use functions from ggplot2 and other packages for making graphics in R - List five or more of the analytical patterns/tasks (proposed by Stephen Few) for choosing the right graphic - Specify colors through the use of a color model, and its hexadecimal syntax - Demonstrate an adequate encoding of data with color - Recognize color schemes when inspecting a graphic - Assess the effectiveness of a graphic intended for reporting/communicating purposes - Apply and/or suggest changes that increase the data-to-ink ratio of a graphic - Produce animated charts as well as graphics with interactive element"
+    "text": "Learning Outcomes\nAt the end of the course, students will be able to:\n\nExplain the importance/need of visualizing data\nDescribe the framework of the grammar of graphics for creating plots\nUse functions from ggplot2 and other packages for making graphics in R\nList five or more of the analytical patterns/tasks (proposed by Stephen Few) for choosing the right graphic\nSpecify colors through the use of a color model, and its hexadecimal syntax\nDemonstrate an adequate encoding of data with color\nRecognize color schemes when inspecting a graphic\nAssess the effectiveness of a graphic intended for reporting/communicating purposes\nApply and/or suggest changes that increase the data-to-ink ratio of a graphic\nProduce animated charts as well as graphics with interactive element"
   },
   {
-    "objectID": "info/syllabus.html#prerequisites",
-    "href": "info/syllabus.html#prerequisites",
+    "objectID": "info/syllabus.html#pre-requisites",
+    "href": "info/syllabus.html#pre-requisites",
     "title": "Syllabus",
-    "section": "Prerequisites:",
-    "text": "Prerequisites:\nBecause our main computational tool is R (and RStudio), it is desirable to have taken a course in which you got an introduction to R (e.g. STAT 20, 33A, 33B, 133, or PB HLTH 142). It is also nice to have some previous experience analyzing data. Being concurrently enrolled in these classes is also acceptable."
+    "section": "Pre-requisites:",
+    "text": "Pre-requisites:\nBecause our main computational tool is R (and RStudio), it is desirable to have taken or be currently enrolled in a course in which you got an introduction to R (e.g. STAT 20, 33A, 33B, 133, or PB HLTH 142). It is also nice to have some previous experience analyzing data."
   },
   {
     "objectID": "info/syllabus.html#methods-of-instruction",
@@ -60,14 +39,14 @@
     "href": "info/syllabus.html#recommended-readings",
     "title": "Syllabus",
     "section": "Recommended Readings",
-    "text": "Recommended Readings\nThe following books are not required, but will be referenced throughout the course for slides, assignments, and more:\n\n Data Visualization  by Kieran Healy\n Geocomputation with R  by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow.\n Now You See It: Simple Visualization Techniques for Quantitative Analysis  by Stephen Few\n Effective Data Visualization (2nd edition): The Right Chart for the Right Data  by Stephanie Evergreen"
+    "text": "Recommended Readings\nThe following books are not required, but will be referenced throughout the course for slides, assignments, and more:\n\n Data Visualization  by Kieran Healy.\n Geocomputation with R  by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow.\n Now You See It: Simple Visualization Techniques for Quantitative Analysis  by Stephen Few.\n Effective Data Visualization (2nd edition): The Right Chart for the Right Data  by Stephanie Evergreen.\n R for Data Science  by Hadley Wickham and Garrett Grolemund."
   },
   {
     "objectID": "info/syllabus.html#grading-structure",
     "href": "info/syllabus.html#grading-structure",
     "title": "Syllabus",
     "section": "Grading Structure",
-    "text": "Grading Structure\nStudents will be informed on their academic progress on gradescope. Final grades in the course are based on the following system:\nAssignments 30%\n\nHW1 4%\nHW2 4%\nHW3 4%\nHW4 4%\nFinal Project 14%\n\nReflections 10%\n\nMidterm Reflection 5%\nFinal Reflection 5%\n\nAttendance 50%\nQuizzes 10%\nNotice: There will be no extra credit assignments. Final grades will be rounded to the tens place (e.g. 78.95% will be rounded to 79%)"
+    "text": "Grading Structure\nStudents will be informed on their academic progress on gradescope. Final grades in the course are based on the following system:\nAssignments 25%\n\nHW1 4%\nHW2 4%\nHW3 4%\nHW4 4%\nFinal Project 9%\n\nReflections 15%\n\nMidterm Reflection 7%\nFinal Reflection 8%\n\nAttendance 50%\nQuizzes 10%"
   },
   {
     "objectID": "info/syllabus.html#assignments",
@@ -131,5 +110,26 @@
     "title": "Syllabus",
     "section": "Safe and Inclusive Environment",
     "text": "Safe and Inclusive Environment\nWhenever a faculty member, staff member, post-doc, or GSI is responsible for the supervision of a student, a personal relationship between them of a romantic or sexual nature, even if consensual, is against university policy. Any such relationship jeopardizes the integrity of the educational process.\nAlthough faculty and staff can act as excellent resources for students, you should be aware that they are required to report any violations of this campus policy. If you wish to have a confidential discussion on matters related to this policy, you may contact the Confidential Care Advocates on campus for support related to counseling or sensitive issues. Appointments can be made by calling (510) 642-1988.\nTe classroom should be a safe and inclusive environment for everyone. The Office for the Prevention of Harassment and Discrimination (OPHD) is responsible for ensuring the University provides an environment for faculty, staff and students that is free from discrimination and harassment on the basis of categories including race, color, national origin, age, sex, gender, gender identity, and sexual orientation. Questions or concerns? Call (510) 643-7985, email ask_ophd@berkeley.edu, or go to the survivor support website."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "STAT 198: Intro to Data Visualization",
+    "section": "",
+    "text": "Tentative Class Calendar\n\n\n\n\n\n\n  \n    \n    \n    \n    \n    \n  \n  \n    \n    \n      Week\n      Date\n      Content\n      Activity\n      Due\n    \n  \n  \n    1\nMon, Sep 11\nWelcome! / Introduction\n\nInstall R & RStudio\n\n\n    \nWed, Sep 13\nGrammar of Graphics I\n\nHW1 assigned\n\n\n    2\nMon, Sep 18\nGrammar of Graphics II\n\nKahoot!\n\n\n    \nWed, Sep 20\nData Wrangling Review\n\nClass QMD #1\n\n\n    3\nMon, Sep 25\nUnivariate Plots\n\nHW2 assigned\n\nHW1 due before class\n\n    \nWed, Sep 27\nBivariate Plots\n\nClass QMD #2\n\n\n    4\nMon, Oct 2\n3+ Variable Plots\n\n\n\n    \nWed, Oct 4\nChoosing a Graphic: Stephen Few\n\nClass QMD #3\n\n\n    5\nMon, Oct 9\nColor Models & Spaces\n\nHW3 assigned\n\nHW2 due before class\n\n    \nWed, Oct 11\nColor Wheel, Schemes, & Palettes\n\nClass QMD #4\n\n\n    6\nMon, Oct 16\nData-ink Ratio\n\nQuiz 1 Assigned\n\nQuiz 1 Due @ 11:59\n\n    \nWed, Oct 18\nAxis, Annotation, & Themes\n\nClass QMD #5\n\nReflection #1 due on sunday\n\n    7\nMon, Oct 23\nDeceptive Graphs\n\nKahoot!\n\nHW3 due before class\n\n    \nWed, Oct 25\nIntro to Interactivity & Animation (ggplotly + gganimate)\n\nClass QMD #6\n\n\n    8\nMon, Oct 30\nFundamentals of Maps\n\n\n\n    \nWed, Nov 1\nInteractive Maps\n\n\n\n    9\nMon, Nov 6\nShiny I\n\nClass RShiny File\n\n\n    \nWed, Nov 8\nShiny II\n\nQuiz 2 Assigned\n\nQuiz 2 Due @ 11:59\n\n    10\nMon, Nov 13\nIntro to Final Project\n\nFinal Project Assigned\n\nHW4 due before class\n\n    \nWed, Nov 15\nExporting Image Files & More\n\nClass QMD #7\n\n\n    11\nMon, Nov 20\nFinal Project Presentations I\n\n🎊 Presentations!\n\nFinal Project Due before class\n\n    \nWed, Nov 22\n🦃 Academic Holiday! 🦃\n\n\n\n    12\nMon, Nov 27\nFinal Project Presentations II\n\n🎊 Presentations!\n\n\n    \nWed, Nov 29\nFinal Project Presentations III\n\n🎊 Presentations!\n\n\n    13\nMon, Dec 4\nRRR Week\n\n\nFinal Reflection due Fri, 08 Dec\n\n    14\nMon, Dec 11\nFinals Week"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "info/rstudio.html",
+    "href": "info/rstudio.html",
+    "title": "R and RStudio",
+    "section": "",
+    "text": "In data visualization, there are many options out there in terms of coding languages. Fortunately, the foundational principles of effective visualization remain consistent for all of them. Subsequently, our class will center its focus on R, and utilize RStudio as our chosen IDE.\nIf you don’t already have R and RStudio, you can click here to find download links for both.\nIf you’re having trouble getting set up, feel free to email your instructors about the issue."
   }
 ]

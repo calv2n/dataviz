@@ -14,7 +14,13 @@ website:
     logo: images/class-logo.jpg
     logo-alt: "logo"
     style: docked
-    collapse-level: 1
+    collapse-level: 3
+    align: center
+    tools:
+      - icon: github
+        href: "https://github.com/calv2n/dataviz"
+      - icon: book-half
+        href: "https://www.gradescope.com/"
     contents:
       - section: "Class Info"
         contents:
