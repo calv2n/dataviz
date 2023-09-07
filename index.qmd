@@ -1,5 +1,5 @@
 ---
-title: "STAT 198: Intro to Data Visualization"
+title: "STAT 198: Intro to Data Visualization DeCal"
 subtitle: "Instructors: Jenny Brown & Calvin Carter"
 execute:
   freeze: auto

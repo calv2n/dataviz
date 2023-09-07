@@ -1,1 +1,1 @@
-Sitemap: calvin.quarto.pub/dataviz/sitemap.xml
+Sitemap: https://calvin.quarto.pub/dataviz/sitemap.xml
