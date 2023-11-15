@@ -9,13 +9,13 @@ urlcolor: "#4792e2"
 linkcolor: "#4792e2"
 ---
 
-**Tentative Class Calendar**
+**Class Calendar**
 
 ```{r}
 #| echo: false
 #| message: false
 
-library(tidyverse) 
+library(tidyverse)
 library(googlesheets4)
 library(gt)
 
@@ -26,7 +26,7 @@ schedule <- read_sheet("https://docs.google.com/spreadsheets/d/1zyHtfnb0YAmzFN2v
 #| echo: false
 
 schedule %>% 
-  mutate(Date = as.Date(Date, format="%a, %d %h")) %>% 
+  mutate(Date = as.Date(Date, format="%a, %d %h")) %>%
   gt() %>% 
   sub_missing(columns = c(Week, Date, Content, Activity, Due),
               missing_text = "") %>% 
@@ -49,7 +49,7 @@ schedule %>%
     locations = cells_body(columns = c(Week, Date, Content, Activity))
   ) %>% 
   fmt_markdown(
-    columns = c(Content, Activity, Due)) %>% 
+    columns = c(Content, Activity, Due)) %>%
   cols_width(
     Week ~ px(60),
     Date ~ px(150),

@@ -102,7 +102,7 @@ Final grades in the course are based on the following system:
 
 - There will be 4 HW assignments.
 
-- HWs will generally be assigned the every other monday and due exactly two weeks later before class. See chart for details.
+- HWs will generally be assigned every other Monday and due exactly two weeks later before class. See calendar for details.
 
 - You will submit your homework to Gradescope: including your source file (qmd file), and the produced output (html file).
 
@@ -156,7 +156,7 @@ With the obvious exception of quizzes, we encourage you to discuss all of the co
 
 Cooperation has a limit, however. You should not share your code or answers directly with other students. Doing so doesn't help them; it just sets them up for trouble. Feel free to discuss approaches to the problems with others, but you must write your own solutions. Please complete your own work and keep it to yourself. If you suspect other people may be plagiarizing you, let us know ASAP. For more information please read the [Honor Code Guide for Syllabi](http://teaching.berkeley.edu/sites/default/files/general/hc_guide_for_syllabi.pdf).
 
-We expect you to do your own work and to uphold the standards of intellectual integrity. Collaborating on homework is fine and I encourage you to work together---but copying is not, nor is having somebody else submit assignments for you. Cheating will not be tolerated. Anyone found cheating will receive an F and will be reported to the [Center for the Student Conduct](http://sa.berkeley.edu/conduct). 
+We expect you to do your own work and to uphold the standards of intellectual integrity. Collaborating on homework is fine and we encourage you to work together---but copying is not, nor is having somebody else submit assignments for you. Cheating will not be tolerated. Anyone found cheating will receive an F and will be reported to the [Center for the Student Conduct](http://sa.berkeley.edu/conduct). 
 
 If you are having trouble with an assignment or studying for an exam, or if you are uncertain about permissible and impermissible conduct or collaboration, please come see me with your questions. Rather than copying someone else's work, ask for help. You are not alone in this course! The course staff is here to help you succeed. If you invest the time to learn the material and complete the projects, you won't need to copy any answers.
 
@@ -166,9 +166,9 @@ If you are having trouble with an assignment or studying for an exam, or if you 
 
 Students needing accommodations for any physical, psychological, or learning disability, should speak with me during the first two weeks of the semester, either after class or during office hours and see [the dsp website](http://dsp.berkeley.edu) to learn about Berkeley’s policy. If you are a DSP student, please contact your instructors at least three weeks prior to a midterm or final so that we can work out acceptable accommodations via the DSP Office.
 
-For relevant DSP accommodations that provide occasional extensions on assignments, we may provide a two-day extension as long as you contact us before the assignment is due. More details about these consideratinos may be discussed with the DSP staff.
+For relevant DSP accommodations that provide occasional extensions on assignments, we may provide a two-day extension as long as you contact us before the assignment is due. More details about these considerations may be discussed with the DSP staff.
 
-If you are an athlete or Cal band member, please check your calendar. Do not take the class if you are not available to take the midterms,  and/or attend lab discussions. I won't be able to provide accommodations for an early or late exam.
+If you are an athlete or Cal band member, please check your calendar. Do not take the class if you are not available to take the midterms,  and/or attend lab discussions. We won't be able to provide accommodations for an early or late exam.
 
 
 ## Safe and Inclusive Environment
@@ -178,5 +178,5 @@ Whenever a faculty member, staff member, post-doc, or GSI is responsible for the
 
 Although faculty and staff can act as excellent resources for students, you should be aware that they are required to report any violations of this campus policy. If you wish to have a confidential discussion on matters related to this policy, you may contact the Confidential Care Advocates on campus for support related to counseling or sensitive issues. Appointments can be made by calling (510) 642-1988.
 
-Te classroom should be a safe and inclusive environment for everyone. The Office for the Prevention of Harassment and Discrimination (OPHD) is responsible for ensuring the University provides an environment for faculty, staff and students that is free from discrimination and harassment on the basis of categories including race, color, national origin, age, sex, gender, gender identity, and sexual orientation. Questions or concerns? Call (510) 643-7985, email ask_ophd@berkeley.edu, or go to [the survivor support website](http://survivorsupport.berkeley.edu/).
+The classroom should be a safe and inclusive environment for everyone. The Office for the Prevention of Harassment and Discrimination (OPHD) is responsible for ensuring the University provides an environment for faculty, staff and students that is free from discrimination and harassment on the basis of categories including race, color, national origin, age, sex, gender, gender identity, and sexual orientation. Questions or concerns? Call (510) 643-7985, email ask_ophd@berkeley.edu, or go to [the survivor support website](http://survivorsupport.berkeley.edu/).
 

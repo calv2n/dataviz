@@ -14,13 +14,7 @@ website:
     logo: images/class-logo.jpg
     logo-alt: "logo"
     style: docked
-    collapse-level: 3
-    align: center
-    tools:
-      - icon: github
-        href: "https://github.com/calv2n/dataviz"
-      - icon: book-half
-        href: "https://www.gradescope.com/"
+    collapse-level: 1
     contents:
       - section: "Class Info"
         contents:
@@ -32,19 +26,57 @@ website:
           text: "R & Rstudio"
       - section: "Homework & Projects"
         contents:
-        - href: "https://youtu.be/dQw4w9WgXcQ?feature=shared"
-          text: "Comming soon!"
-        #- href: homework/hw1
-        #  text: "HW1"
-        #- href: homework/final-project
-        #  text: "Final Project"
+        - href: "https://berkeley.box.com/s/qv1l7njo7mwrri6ubcdot62k0i60mxhf"
+          text: "HW1"
+        - href: "https://berkeley.box.com/s/2vmxolhbhm5c5bodf691g9zcx6e3tff5"
+          text: "HW2"
+        - href: "https://berkeley.box.com/s/w4c1aq481e7fd6bkjq6qe44ijf4zoo7v"
+          text: "HW3"
+        - href: "https://berkeley.box.com/s/wzixevuz9iel0sbijie8h20h9gpxm9g2"
+          text: "HW4"
+        - href: "https://berkeley.box.com/s/wtnpuk7kk1oth30apybo18g6l0jmiv1d"
+          text: "Final Project"
       - section: "Slides"
         contents:
-        - href: "https://youtu.be/oCEZC9w5cMc?si=SOuC2KhjIuHJAhGV"
-          text: "Comming soon!"
-        # - href: slides/sept11
-        #   text: "09/11/23"
-    
+        - href: "https://docs.google.com/presentation/d/1q342o8292WOhDXPjp6QZ_C4x07jRKnkPkrtN1Ca2vU4/edit?usp=sharing"
+          text: "09/11"
+        - href: "https://docs.google.com/presentation/d/1vKE_U5VlRRFLpaylf3S9rop44dufNqqhSBl6Ut_quGM/edit?usp=sharing"
+          text: "09/13"
+        - href: "https://docs.google.com/presentation/d/1Zhi7g2YvoccaLOHzqSdOfzUVvEmk5l0k0ame1rG4i6g/edit?usp=sharing"
+          text: "09/18"
+        - href: "https://docs.google.com/presentation/d/1EEvGlT7YxjUIaDiS3da-uQoaNkiLUaCdFv3Av0wW7gw/edit?usp=sharing"
+          text: "09/20"
+        - href: "https://docs.google.com/presentation/d/1VO5R6FeQ3S51Eufmfpy89pk96M_1QcfhmkzY_5FSnxs/edit?usp=sharing"
+          text: "09/25"
+        - href: "https://docs.google.com/presentation/d/1BPdbjiCAMrRqxd5-LYWO7tNZgO8Olj-dQugvapDcIXY/edit?usp=sharing"
+          text: "09/27"
+        - href: "https://docs.google.com/presentation/d/1eir2TrCmC4rewwDS4Umbah2J6sxK_iSeLGubXyrqEUI/edit?usp=sharing"
+          text: "10/02"
+        - href: "https://docs.google.com/presentation/d/1UCldnTSRToY1WNVnP-Wp30c2rER6--xCvXBzdrrEF1I/edit?usp=sharing"
+          text: "10/04"
+        - href: "https://docs.google.com/presentation/d/1HccoYMMAKZ6GvFL9keHaY52Z0vFLr12BAplp3Jye3oc/edit?usp=sharing"
+          text: "10/09"
+        - href: "https://docs.google.com/presentation/d/1nlZLA-agcol1sDxqbNcMQ8vJ_qvXtExn33cgvFqAu_g/edit?usp=sharing"
+          text: "10/11"
+        - href: "https://docs.google.com/presentation/d/15s1iuvUspOanvuTWaif7kJSs5n9h_0iIJFxPShMVbKo/edit?usp=sharing"
+          text: "10/16"
+        - href: "https://docs.google.com/presentation/d/1SB_Y1TC7YhTYhmtC7MbF0s-e4xI5SNxyrFhHyNW7nFQ/edit?usp=sharing"
+          text: "10/18"
+        - href: "https://docs.google.com/presentation/d/1GVKKA1XyZVW-wRlsodlz1N3BARqv0YNzvmBSaFgZGhM/edit?usp=sharing"
+          text: "10/23"
+        - href: "https://docs.google.com/presentation/d/1AC7QPVaBzXjUyhMyr0owVfJ05lTvtfmRCf9M7_TKkoc/edit?usp=sharing"
+          text: "10/25"
+        - href: "https://docs.google.com/presentation/d/1BZCILNdFProjve5nqzvMRDUDShPLdM-kOiZnJ-7iorU/edit?usp=sharing"
+          text: "10/30"
+        - href: "https://docs.google.com/presentation/d/1gb4OPWKu6WLpLCvmoVCWAh3DTd_BSP9rodMLOfhHEfs/edit?usp=sharing"
+          text: "11/01"
+        - href: "https://docs.google.com/presentation/d/1zR2b5yYJtq9W0wCAMHn8BK4NMQkcX5tANutj-iZGdsc/edit?usp=sharing"
+          text: "11/06"
+        - href: "https://docs.google.com/presentation/d/1za5oqYXGiU8crCqpFGfjVR81BLFAmlQvgUadCttSTwQ/edit?usp=sharing"
+          text: "11/08"
+        - href: "https://docs.google.com/presentation/d/1OjF8KZM2CupqmA90-4DGCJjtOkotviPYFF8YFC8dy1Q/edit?usp=sharing"
+          text: "11/13"
+
 format:
   html:
     theme: cosmo
